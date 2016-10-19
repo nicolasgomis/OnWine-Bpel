@@ -51,7 +51,6 @@ Desktop.ini
 ######################
  
 *.pydevproject
-.project
 .metadata
 .recommenders
 bin/**
@@ -63,7 +62,6 @@ tmp/**/*
 *~.nib
 local.properties
 .classpath
-.settings/
 .loadpath
 /src/main/resources/rebel.xml
 Servers/
